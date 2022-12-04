@@ -412,3 +412,11 @@ body.night .go-up a:hover {
 .sidebar-menu .main-menu a>i{
   width: 16px;
 }
+
+svg.icon {
+  width: 1.2em; height: 1.2em;
+  /* width和height定义图标的默认宽度和高度*/
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
